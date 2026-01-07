@@ -1,4 +1,4 @@
-# -Striker-Performance-Segmentation-and-Classification
+# -Striker-Performance-Segmentation-and-Classification 
 
 📌 Overview
 his project focuses on using unsupervised machine learning techniques to analyze and segment striker performance data in professional football. The aim is to provide a data-driven scouting solution to identify and classify players into meaningful performance tiers. The entire project was executed using Python in Google Colab, leveraging popular data science libraries.
